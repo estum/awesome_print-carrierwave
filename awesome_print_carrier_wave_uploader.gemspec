@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["anton.estum@gmail.com"]
   spec.description   = %q{Formats CarrierWave::Uploader instance objects with AwesomePrint}
   spec.summary       = %q{AwesomePrint formatter for CarrierWave::Uploader instance objects}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/estum/awesome_print_carrier_wave_uploader"
   spec.license       = "MIT"
   
   spec.files         = `git ls-files`.split($/)
