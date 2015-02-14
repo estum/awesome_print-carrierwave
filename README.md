@@ -6,7 +6,9 @@ This gem makes Awesome Print to print only serialized data of the mounted upload
 
 Add this line to your application's Gemfile:
 
-    gem 'awesome_print-carrierwave', group: [:development]
+```ruby
+gem 'awesome_print-carrierwave', group: [:development]
+```
 
 And then execute:
 
