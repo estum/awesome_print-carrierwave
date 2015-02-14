@@ -1,12 +1,12 @@
-# AwesomePrintCarrierWaveUploader
+# Awesome Print CarrierWave formatter
 
-TODO: Write a gem description
+This gem makes Awesome Print to print only serialized data of the mounted uploader, instead of raw CarrierWave objects chain on a half of your screen, when it formats inspection of your model attributes.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'awesome_print_carrier_wave_uploader'
+    gem 'awesome_print-carrierwave', group: [:development]
 
 And then execute:
 
@@ -14,11 +14,8 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install awesome_print_carrier_wave_uploader
+    $ gem install awesome_print-carrierwave
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
